@@ -6,6 +6,16 @@ layout: default
 
 I am an undergraduate student taking up Bachelor of Science in Computer Science majoring in Network and Information Security from De La Salle University, with a keen interest in analyzing and addressing potential vulnerabilities in digital systems. I enjoy identifying risks, understanding patterns in network behavior, and applying critical thinking to develop robust security measures. I have hands-on experience in cybersecurity and forensics, focusing on improving the safety of information systems. I work methodically to spot and fix security risks, helping make systems more secure and reliable.
 
+## Projects
+
+| project      | description       |
+|:-------------|:------------------|
+| ok           | good swedish fish |
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop |
+* * *
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
@@ -13,8 +23,6 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-## Header 2
 
 > This is a blockquote following a header.
 >
@@ -50,17 +58,6 @@ end
 3.  This is an ordered list following a header.
 
 ###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
 
 ### Here is an unordered list:
 
