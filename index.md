@@ -8,12 +8,13 @@ I am an undergraduate student taking up Bachelor of Science in Computer Science 
 
 ## Projects
 
-| project      | description       |
-|:-------------|:------------------|
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
+| Project      | Description        |
+|:-------------|:-------------------|
+| OK           | Good Swedish Fish  |
+| Out of stock | Good and Plenty    |
+| OK           | Good `Oreos`       |
+| OK           | Good `Zoute` drop  |
+
 * * *
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
