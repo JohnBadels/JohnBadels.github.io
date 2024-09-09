@@ -8,18 +8,16 @@ I am an undergraduate student taking up Bachelor of Science in Computer Science 
 
 ## Projects
 
-| Project      | Description        |
-|:-------------|:-------------------|
-| OK           | Good Swedish Fish  |
-| Out of stock | Good and Plenty    |
-| OK           | Good `Oreos`       |
-| OK           | Good `Zoute` drop  |
+| Project                                                                     | Description        |
+|:----------------------------------------------------------------------------|:-------------------|
+| [Registry Acquisition and Parsing Tool](./projects/another-page.html)       | Good Swedish Fish  |
+| [Bulk Extractor and YARA Orchestration Tool](./projects/another-page2.html) | Good and Plenty    |
+| OK                                                                          | Good `Oreos`       |
+| OK                                                                          | Good `Zoute` drop  |
 
 * * *
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
