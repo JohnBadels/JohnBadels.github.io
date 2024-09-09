@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Hello! I'm Gideon.
+
+I am an undergraduate student taking up Bachelor of Science in Computer Science majoring in Network and Information Security from De La Salle University, with a keen interest in analyzing and addressing potential vulnerabilities in digital systems. I enjoy identifying risks, understanding patterns in network behavior, and applying critical thinking to develop robust security measures. I have hands-on experience in cybersecurity and forensics, focusing on improving the safety of information systems. I work methodically to spot and fix security risks, helping make systems more secure and reliable.
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
@@ -9,10 +13,6 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
