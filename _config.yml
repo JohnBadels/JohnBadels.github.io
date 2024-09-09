@@ -1,5 +1,6 @@
 title: JohnBadels projects
 description: list of personal and collaborative projects
 show_downloads: false
+show_github_link: false
 google_analytics:
 theme: jekyll-theme-hacker
