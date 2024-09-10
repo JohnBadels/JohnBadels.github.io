@@ -6,4 +6,4 @@ layout: default
 
 _yay_
 
-[back]([JohnBadels.github.io/index.md](https://johnbadels.github.io/))
+[back](./)
