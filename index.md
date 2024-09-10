@@ -10,10 +10,10 @@ I am an undergraduate student taking up Bachelor of Science in Computer Science 
 
 | Project                                                                     | Description        |
 |:----------------------------------------------------------------------------|:-------------------|
-| [Registry Acquisition and Parsing Tool](./projects/another-page.html)       | Good Swedish Fish  |
-| [Bulk Extractor and YARA Orchestration Tool](./projects/another-page2.html) | Good and Plenty    |
-| OK                                                                          | Good `Oreos`       |
-| OK                                                                          | Good `Zoute` drop  |
+| [Registry Acquisition and Parsing Tool](./another-page.html)                | Good Swedish Fish  |
+| [Bulk Extractor and YARA Orchestration Tool](./another-page2.html)          | Good and Plenty    |
+| [4-in-1 Shell Items Parser Tool](./another-page3.html)                      | Good `Oreos`       |
+| [RFID Terminal for Point of Sale / Toll Road Service](./another-page4.html) | Good `Zoute` drop  |
 
 * * *
 
