@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Registry Acquisition and Parsing Tool
+##### GitHub Repository: [https://github.com/JohnBadels/SECU3-LAB-3](https://github.com/JohnBadels/SECU3-LAB-3)
 A tool for acquiring and parsing Windows Registry hives, capable of operating in both live and offline environments.
 
 ### Key Features
@@ -16,7 +17,5 @@ A tool for acquiring and parsing Windows Registry hives, capable of operating in
 
 ### Screenshots
 klklk
-
-**GitHub Repository:** [https://github.com/JohnBadels/SECU3-LAB-3](https://github.com/JohnBadels/SECU3-LAB-3)
 
 [back](./index.md)
