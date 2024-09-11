@@ -22,6 +22,6 @@ A tool for acquiring and parsing Windows Registry hives, capable of operating in
 
 ### Screenshots
 
-[Registry Acquisition Tool Successfully Executed](./pictures/reg-acq-tool-execute.png)
+![Registry Acquisition Tool Successfully Executed](./pictures/reg-acq-tool-execute.png)
 
 [back](./index.md)
