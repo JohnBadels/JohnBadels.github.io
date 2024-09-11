@@ -21,6 +21,7 @@ A tool for acquiring and parsing Windows Registry hives, capable of operating in
   - from FTK Imager (Offline)
 
 ### Screenshots
-klklk
+
+[Registry Acquisition Tool Successfully Executed](./pictures/reg-acq-tool-execute.png)
 
 [back](./index.md)
