@@ -6,19 +6,21 @@ layout: default
 
 A tool for acquiring and parsing Windows Registry hives, capable of operating in both live and offline environments.
 
-### Prerequisite
+### Key Features
 
-- REG_AC_TOOL.py and REG_PARSE_TOOL.py [(GitHub repository)](https://github.com/JohnBadels/SECU3-LAB-3)
-- Python [(latest version)](https://www.python.org/downloads/)
-  - If using Windows 7 OS, download [Python 3.7.0 (for AMD64/EM64T/x64)](https://www.python.org/downloads/release/python-370/) 
-  - _NOTE: If done via RDP, make sure that both OS have the same Pyhton version._
-- PyInstaller
+#### Registry Acquisition Tool
+- Extracts key registry hives — SAM, SECURITY, SOFTWARE, SYSTEM, and DEFAULT (Live)
 
-### How to Use
+#### Registry Parsing Tool
+- Parses registry hives
+  - from Registry Acquisition Tool (Live)
+  - from FTK Imager (Offline)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-REG_AC_TOOL.py
+### Screenshots
+
+klklk
+
+### GitHub Repository:
+ [https://github.com/JohnBadels/SECU3-LAB-3](https://github.com/JohnBadels/SECU3-LAB-3)
 
 [back](./index.md)
