@@ -25,7 +25,7 @@ A tool for acquiring and parsing Windows Registry hives, capable of operating in
 
 ### Screenshots
 ##### Registry Acquisition Tool w/ extracted registry hives
-![reg-acq-tool-execut](./pictures/reg-acq-tool-execute.png)
+![reg-acq-tool-execute](./pictures/reg-acq-tool-execute.png)
 
 ##### Registry Parser Tool w/ parsed registry hives from Registry Acquisition Tool
 ![reg-par-tool-from-reg-acq-tool](./pictures/reg-par-tool-from-reg-acq-tool.png)
