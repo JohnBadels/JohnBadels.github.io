@@ -8,7 +8,12 @@ A tool for acquiring and parsing Windows Registry hives, capable of operating in
 
 ### Key Features
 #### Registry Acquisition Tool
-- Extracts key registry hives — SAM, SECURITY, SOFTWARE, SYSTEM, and DEFAULT (Live)
+- Extracts key registry hives (Live)
+  - SAM
+  - SECURITY
+  - SOFTWARE
+  - SYSTEM
+  - DEFAULT
 
 #### Registry Parsing Tool
 - Parses registry hives
