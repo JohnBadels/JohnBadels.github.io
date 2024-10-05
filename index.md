@@ -12,6 +12,6 @@ I am an undergraduate student taking up Bachelor of Science in Computer Science 
 |:-----------------------------------------------------------------|:-------------------|
 | [Registry Acquisition and Parsing Tool](./rapt-page.md)          | Good Swedish Fish  |
 | [Bulk Extractor and YARA Orchestration Tool](./bulkxyara.md) | Good and Plenty    |
-| [4-in-1 Shell Items Parser Tool](./bulkxyara.md)             | Good `Oreos`       |
+| [4-in-1 Shell Items Parser Tool](./4in1shellparser.md)             | Good `Oreos`       |
 
 * * *
