@@ -4,9 +4,9 @@ layout: default
 
 [back](./index.md)
 
-# Registry Acquisition and Parsing Tool
-##### GitHub Repository: [https://github.com/JohnBadels/SECU3-LAB-3](https://github.com/JohnBadels/SECU3-LAB-3)
-Tool for acquiring and parsing Windows Registry hives, capable of operating in both live and offline environments.
+# 4-in-1 Shell Items Parser Tool
+##### GitHub Repository: [https://github.com/JohnBadels/NSSECU3_WFP](https://github.com/JohnBadels/NSSECU3_WFP)
+A dynamic and versatile tool that can operate live or offline capable of parsing and collecting various types of Shell Items, including shortcuts, jump lists, prefetch files, and shellbags, by integrating prebuilt tools. 
 
 ### Key Features
 #### Registry Acquisition Tool
