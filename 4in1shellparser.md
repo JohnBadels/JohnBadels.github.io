@@ -9,19 +9,12 @@ layout: default
 A dynamic and versatile tool that can operate live or offline capable of parsing and collecting various types of Shell Items, including shortcuts, jump lists, prefetch files, and shellbags, by integrating prebuilt tools. 
 
 ### Key Features
-#### Registry Acquisition Tool
-- Extracts key registry hives (Live)
-  - SAM
-  - SECURITY
-  - SOFTWARE
-  - SYSTEM
-  - DEFAULT
-
-#### Registry Parsing Tool
-- Parses registry hives
-  - from Registry Acquisition Tool (Live)
-  - from FTK Imager (Offline)
-- Converts parsed data to .csv and .json
+- Integration of specialized parsers (LECmd.exe, JLECmd.exe, PECmd.exe, SBECmd.exe)
+- Offline and live analysis modes
+- Real-time directory monitoring
+- Automated file discovery and parsing
+- Multi-format output (CSV and JSON)
+- User-friendly menu interface
 
 ### Screenshots
 ##### Registry Acquisition Tool w/ extracted registry hives
